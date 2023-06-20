@@ -24,7 +24,9 @@
 
 *In order to compare the different outcomes, we built a accuracy x model table:*
 
-![Table](http://url/to/img.png)
+<br>
+
+![Table](Images/table.png)
 
 <br>
 
