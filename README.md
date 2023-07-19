@@ -16,7 +16,6 @@
 
   🔸   *Treat outliers and missing values* <br>
   🔸   *Normalization* <br>
-  🔸   *Discretization*
 
 <br>
 
