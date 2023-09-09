@@ -4,7 +4,7 @@
 
 ## **◾ Introduction:**
 
-*From a dataset about arrhythmias and the study on pre-processing, the repository aims to present and dicsuss the results obtained using the Decision Tree model J48 and the SVM Linear model in order to classify the mentioned data.*
+*From a dataset about arrhythmias and the study on pre-processing, the repository aims to present and discuss the results obtained using the Decision Tree model J48 and the SVM Linear model in order to classify the mentioned data.*
 
 <br>
 
